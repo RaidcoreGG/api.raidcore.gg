@@ -1,0 +1,26 @@
+[
+    {
+        "id": 17,
+        "name": "Compass",
+        "description": "A compass addon, with a UI widget and an in world-compass.",
+        "download": "https://github.com/RaidcoreGG/GW2-Compass"
+    },
+    {
+        "id": -617263,
+        "name": "ArcDPS",
+        "description": "combatmetrics",
+        "download": "https://www.deltaconnected.com/arcdps/x64/d3d11.dll"
+    },
+    {
+        "id": -1,
+        "name": "Bosses",
+        "description": "Raidcore addon adding meta events and world bosses notifications to in-game map.",
+        "download": "https://github.com/Sognus/Gw2-Bosses"
+    },
+    {
+        "id": -69420,
+        "name": "DVD",
+        "description": "Bouncy",
+        "download": "https://github.com/belst/nexus-dvd"
+    }
+]
