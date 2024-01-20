@@ -22,5 +22,11 @@
         "name": "DVD",
         "description": "Bouncy",
         "download": "https://github.com/belst/nexus-dvd"
+    },
+    {
+        "id": -69421,
+        "name": "Wingman Uploader",
+        "description": "Program to upload logs to both dps.report and gw2wingman",
+        "download": "https://github.com/belst/nexus-wingman-uploader"
     }
 ]
