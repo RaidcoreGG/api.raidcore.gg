@@ -26,7 +26,13 @@
     {
         "id": -69421,
         "name": "Wingman Uploader",
-        "description": "Program to upload logs to both dps.report and gw2wingman",
+        "description": "Program to upload logs to both dps.report and gw2wingman.",
         "download": "https://github.com/belst/nexus-wingman-uploader"
+    },
+    {
+        "id": 159851333,
+        "name": "MouseLookHandler",
+        "description": "Addon to help automatically enable Action Camera and some other tweaks.",
+        "download": "https://github.com/RaidcoreGG/MouseLookHandler"
     }
 ]
