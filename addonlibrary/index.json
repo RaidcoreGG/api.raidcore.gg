@@ -40,5 +40,5 @@
         "name": "Addon Config Backup Tool",
         "description": "A small tool to help keep your addons backed up in case of nuking your GW2 install folder",
         "download": "https://github.com/mythwright/nexus-config-backup"
-      }
+    }
 ]
