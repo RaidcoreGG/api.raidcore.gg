@@ -40,5 +40,11 @@
         "name": "Addon Config Backup Tool",
         "description": "A small tool to help keep your addons backed up in case of nuking your GW2 install folder",
         "download": "https://github.com/mythwright/nexus-config-backup"
+    },
+    {
+        "id": -584326,
+        "name": "Commander's Toolkit",
+        "description": "Allows you to track boon & role coverage in a squad and other features.",
+        "download": "https://github.com/RaidcoreGG/GW2-CommandersToolkit"
     }
 ]
