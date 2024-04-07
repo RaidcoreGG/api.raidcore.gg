@@ -9,7 +9,8 @@
         "id": -617263,
         "name": "ArcDPS",
         "description": "combatmetrics",
-        "download": "https://www.deltaconnected.com/arcdps/nexus_arcdps.dll"
+        "download": "https://www.deltaconnected.com/arcdps/nexus_arcdps.dll",
+        "tos_compliance": "This addon reads game memory and makes runtime modifications."
     },
     {
         "id": -1,
