@@ -4,5 +4,54 @@
         "name": "Mechanics Log",
         "description": "Shows successful and failed mechanics.",
         "download": "https://github.com/knoxfighter/GW2-ArcDPS-Mechanics-Log"
+    },
+    {
+        "id": 1677734504,
+        "name": "Boon Table",
+        "description": "Adds a table with boon uptime.",
+        "download": "https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table"
+    },
+    {
+        "id": 1806637368,
+        "name": "Killproof.me",
+        "description": "A Plugin for arcdps, that is loading killproof.me info and displaying it ingame.",
+        "download": "https://github.com/knoxfighter/arcdps-killproof.me-plugin"
+    },
+    {
+        "id": 2031515920,
+        "name": "Scrolling Combat Text",
+        "description": "A scrolling combat text addon for GW2 using ArcDPS API.",
+        "download": "https://github.com/Artenuvielle/GW2-SCT"
+    },
+    {
+        "id": 2627419289,
+        "name": "Healing Stats",
+        "description": "An addon for ArcDPS that shows personal healing stats.",
+        "download": "https://github.com/Krappa322/arcdps_healing_stats"
+    },
+    {
+        "id": 3013035711,
+        "name": "Unofficial Extras",
+        "description": "Provides other addons with additional information.",
+        "download": "https://github.com/Krappa322/arcdps_unofficial_extras_releases",
+        "tos_compliance": "This addon reads game memory and makes runtime modifications."
+    },
+    {
+        "id": 1680583342,
+        "name": "Food Reminder",
+        "description": "ArcDPS plugin for Guild Wars 2 allowing tracking of buff food & utility items.",
+        "download": "https://github.com/Zerthox/arcdps-food-reminder"
+    },
+    {
+        "id": 120734459,
+        "name": "Player List",
+        "description": "Save other players' account names and add comments to them.",
+        "download": "https://github.com/Calcoph/gw2-player-list"
+    },
+    {
+        "id": 2227255059,
+        "name": "Player List",
+        "description": "ArcDPS plugin for Guild Wars 2 assisting with combat gameplay.",
+        "download": "https://github.com/Zerthox/arcdps-buddy"
     }
 ]
