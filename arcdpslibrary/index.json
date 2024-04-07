@@ -50,7 +50,7 @@
     },
     {
         "id": 2227255059,
-        "name": "Player List",
+        "name": "Buddy",
         "description": "ArcDPS plugin for Guild Wars 2 assisting with combat gameplay.",
         "download": "https://github.com/Zerthox/arcdps-buddy"
     }
