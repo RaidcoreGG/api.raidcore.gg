@@ -53,5 +53,24 @@
         "name": "Buddy",
         "description": "ArcDPS plugin for Guild Wars 2 assisting with combat gameplay.",
         "download": "https://github.com/Zerthox/arcdps-buddy"
+    },
+    {
+        "id": 3165360497,
+        "name": "Squad Ready",
+        "description": "arcdps plugin for playing audio notifications when a ready check is started and completed.",
+        "download": "https://github.com/cheahjs/arcdps-squad-ready-plugin"
+    },
+    {
+        "id": 266758,
+        "name": "DRF",
+        "description": "the ultimate loot tracking tool for Guild Wars 2",
+        "download": "https://update.drf.rs/drf.dll",
+        "tos_compliance": "This addon reads game memory and makes runtime modifications."
+    },
+    {
+        "id": 598736512,
+        "name": "Chat Log",
+        "description": "arcdps plugin for doing various things with squad messages",
+        "download": "https://github.com/cheahjs/arcdps-chat-log"
     }
 ]
