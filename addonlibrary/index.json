@@ -47,5 +47,11 @@
         "name": "Commander's Toolkit",
         "description": "Allows you to track boon & role coverage in a squad and other features.",
         "download": "https://github.com/RaidcoreGG/GW2-CommandersToolkit"
+    },
+    {
+        "id": -195620800,
+        "name": "Gearcheck",
+        "description": "Allows you to inspect the gear of other players.",
+        "download": "https://0x6d657465722e.github.io/tools/inspect.dll"
     }
 ]
