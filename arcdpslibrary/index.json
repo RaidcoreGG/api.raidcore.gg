@@ -72,5 +72,11 @@
         "name": "Chat Log",
         "description": "arcdps plugin for doing various things with squad messages",
         "download": "https://github.com/cheahjs/arcdps-chat-log"
+    },
+    {
+        "id": 2465727589,
+        "name": "BuildPad",
+        "description": "A build storage plugin for ArcDPS",
+        "download": "https://buildpad.gw2archive.eu/versions/latest"
     }
 ]
