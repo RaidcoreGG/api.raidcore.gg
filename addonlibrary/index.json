@@ -53,5 +53,11 @@
         "name": "/gg",
         "description": "Let's you GG with a button press.",
         "download": "https://github.com/RaidcoreGG/GW2-SlashGG"
+    },
+    {
+        "id": 31,
+        "name": "Range Indicators",
+        "description": "Shows your hitbox and allows to display custom ranges.",
+        "download": "https://github.com/RaidcoreGG/GW2-RangeIndicators"
     }
 ]
