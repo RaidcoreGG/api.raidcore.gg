@@ -59,5 +59,11 @@
         "name": "Range Indicators",
         "description": "Shows your hitbox and allows to display custom ranges.",
         "download": "https://github.com/RaidcoreGG/GW2-RangeIndicators"
+    },
+    {
+        "id": -918234798,
+        "name": "Keyboard Overlay",
+        "description": "Adds a simple keyboard overlay to the UI.",
+        "download": "https://github.com/Seres67/nexus_keyboard_overlay"
     }
 ]
