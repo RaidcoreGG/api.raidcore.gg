@@ -76,5 +76,12 @@
         "author": "Seres67",
         "description": "Adds a simple keyboard overlay to the UI.",
         "download": "https://github.com/Seres67/nexus_keyboard_overlay"
-    }
+    },
+    {
+        "id": -50603,
+        "name": "Steam Integration",
+        "author": "Zyian",
+        "description": "Initializes the Steam API to show you are playing GW2 on Steam to track time played.",
+        "download": "https://github.com/mythwright/nexus-steam-integration"
+      }
 ]
