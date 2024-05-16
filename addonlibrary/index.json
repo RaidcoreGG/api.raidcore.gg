@@ -83,5 +83,5 @@
         "author": "Zyian",
         "description": "Initializes the Steam API to show you are playing GW2 on Steam to track time played.",
         "download": "https://github.com/mythwright/nexus-steam-integration"
-      }
+	}
 ]
