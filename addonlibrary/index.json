@@ -2,12 +2,14 @@
     {
         "id": 17,
         "name": "Compass",
+        "author": "Raidcore",
         "description": "A compass addon, with a UI widget and an in world-compass.",
         "download": "https://github.com/RaidcoreGG/GW2-Compass"
     },
     {
         "id": -617263,
         "name": "ArcDPS",
+        "author": "deltaconnected",
         "description": "combatmetrics",
         "download": "https://www.deltaconnected.com/arcdps/nexus_arcdps.dll",
         "tos_compliance": "This addon reads game memory and makes runtime modifications."
@@ -15,54 +17,63 @@
     {
         "id": -1,
         "name": "Bosses",
+        "author": "Sognus.1204",
         "description": "Raidcore addon adding meta events and world bosses notifications to in-game map.",
         "download": "https://github.com/Sognus/Gw2-Bosses"
     },
     {
         "id": -69420,
         "name": "DVD",
+        "author": "belst",
         "description": "Bouncy",
         "download": "https://github.com/belst/nexus-dvd"
     },
     {
         "id": -69421,
         "name": "Wingman Uploader",
+        "author": "belst",
         "description": "Program to upload logs to both dps.report and gw2wingman.",
         "download": "https://github.com/belst/nexus-wingman-uploader"
     },
     {
         "id": 159851333,
         "name": "MouseLookHandler",
+        "author": "Raidcore",
         "description": "Addon to help automatically enable Action Camera and some other tweaks.",
         "download": "https://github.com/RaidcoreGG/MouseLookHandler"
     },
     {
         "id": -50602,
         "name": "Addon Config Backup Tool",
+        "author": "Zyian",
         "description": "A small tool to help keep your addons backed up in case of nuking your GW2 install folder",
         "download": "https://github.com/mythwright/nexus-config-backup"
     },
     {
         "id": -584326,
         "name": "Commander's Toolkit",
+        "author": "Raidcore",
         "description": "Allows you to track boon & role coverage in a squad and other features.",
         "download": "https://github.com/RaidcoreGG/GW2-CommandersToolkit"
     },
     {
         "id": 907018609,
         "name": "/gg",
+        "author": "Raidcore",
         "description": "Let's you GG with a button press.",
         "download": "https://github.com/RaidcoreGG/GW2-SlashGG"
     },
     {
         "id": 31,
         "name": "Range Indicators",
+        "author": "Raidcore",
         "description": "Shows your hitbox and allows to display custom ranges.",
         "download": "https://github.com/RaidcoreGG/GW2-RangeIndicators"
     },
     {
         "id": -918234798,
         "name": "Keyboard Overlay",
+        "author": "Seres67",
         "description": "Adds a simple keyboard overlay to the UI.",
         "download": "https://github.com/Seres67/nexus_keyboard_overlay"
     }

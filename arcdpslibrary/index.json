@@ -2,36 +2,42 @@
     {
         "id": 2164277538,
         "name": "Mechanics Log",
+        "author": "knoxfighter",
         "description": "Shows successful and failed mechanics.",
         "download": "https://github.com/knoxfighter/GW2-ArcDPS-Mechanics-Log"
     },
     {
         "id": 1677734504,
         "name": "Boon Table",
+        "author": "knoxfighter",
         "description": "Adds a table with boon uptime.",
         "download": "https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table"
     },
     {
         "id": 1806637368,
         "name": "Killproof.me",
+        "author": "knoxfighter",
         "description": "A Plugin for arcdps, that is loading killproof.me info and displaying it ingame.",
         "download": "https://github.com/knoxfighter/arcdps-killproof.me-plugin"
     },
     {
         "id": 2031515920,
         "name": "Scrolling Combat Text",
+        "author": "Artenuvielle",
         "description": "A scrolling combat text addon for GW2 using ArcDPS API.",
         "download": "https://github.com/Artenuvielle/GW2-SCT"
     },
     {
         "id": 2627419289,
         "name": "Healing Stats",
+        "author": "Krappa322",
         "description": "An addon for ArcDPS that shows personal healing stats.",
         "download": "https://github.com/Krappa322/arcdps_healing_stats"
     },
     {
         "id": 3013035711,
         "name": "Unofficial Extras",
+        "author": "Krappa322",
         "description": "Provides other addons with additional information.",
         "download": "https://github.com/Krappa322/arcdps_unofficial_extras_releases",
         "tos_compliance": "This addon reads game memory and makes runtime modifications."
@@ -39,30 +45,35 @@
     {
         "id": 1680583342,
         "name": "Food Reminder",
+        "author": "Zerthox",
         "description": "ArcDPS plugin for Guild Wars 2 allowing tracking of buff food & utility items.",
         "download": "https://github.com/Zerthox/arcdps-food-reminder"
     },
     {
         "id": 120734459,
         "name": "Player List",
+        "author": "Calcoph",
         "description": "Save other players' account names and add comments to them.",
         "download": "https://github.com/Calcoph/gw2-player-list"
     },
     {
         "id": 2227255059,
         "name": "Buddy",
+        "author": "Zerthox",
         "description": "ArcDPS plugin for Guild Wars 2 assisting with combat gameplay.",
         "download": "https://github.com/Zerthox/arcdps-buddy"
     },
     {
         "id": 3165360497,
         "name": "Squad Ready",
+        "author": "cheahjs",
         "description": "arcdps plugin for playing audio notifications when a ready check is started and completed.",
         "download": "https://github.com/cheahjs/arcdps-squad-ready-plugin"
     },
     {
         "id": 266758,
         "name": "DRF",
+        "author": "Greaka",
         "description": "the ultimate loot tracking tool for Guild Wars 2",
         "download": "https://update.drf.rs/drf.dll",
         "tos_compliance": "This addon reads game memory and makes runtime modifications."
@@ -70,12 +81,14 @@
     {
         "id": 598736512,
         "name": "Chat Log",
+        "author": "cheahjs",
         "description": "arcdps plugin for doing various things with squad messages",
         "download": "https://github.com/cheahjs/arcdps-chat-log"
     },
     {
         "id": 2465727589,
         "name": "BuildPad",
+        "author": "e-scrape-artist",
         "description": "A build storage plugin for ArcDPS",
         "download": "https://buildpad.gw2archive.eu/versions/latest"
     }
