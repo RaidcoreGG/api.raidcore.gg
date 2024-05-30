@@ -90,20 +90,23 @@
         "name": "Extended Control Options",
         "author": "Jordan",
         "description": "Provides additional controls and macros not available via the in-game Control Options menu.",
-        "download": "https://github.com/jordanrye/nexus-control-options"
+        "download": "https://github.com/jordanrye/nexus-control-options",
+        "new": true
     },
     {
         "id": -126452345,
         "name": "Regions of Tyria",
         "author": "HeavyMetalPirate.2695",
         "description": "Displays the current sector whenever you cross borders, much like your favorite (MMO)RPG does.",
-        "download": "https://github.com/HeavyMetalPirate/GW2Nexus-RegionsOfTyria"
+        "download": "https://github.com/HeavyMetalPirate/GW2Nexus-RegionsOfTyria",
+        "new": true
     },
     {
         "id": -104905,
         "name": "Log Proofs",
         "author": "Subi",
         "description": "Displays kill proofs based on logs uploaded to wingman.",
-        "download": "https://github.com/SubiqT/GW2LogProofs"
+        "download": "https://github.com/SubiqT/GW2LogProofs",
+        "new": true
     }
 ]
