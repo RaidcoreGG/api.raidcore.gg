@@ -4,6 +4,8 @@ Options -Indexes -MultiViews
 # Prevent mod_dir appending a slash to directory requests
 DirectorySlash Off
 
+CheckCaseOnly on
+
 RewriteEngine On
 
 RedirectMatch 404 /\.git
