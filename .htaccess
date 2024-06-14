@@ -12,7 +12,7 @@ RedirectMatch 404 /\.git
 RewriteRule \.\w{2,4}$ - [L]
 
 # Redirect any requests to remove a trailing slash
-RewriteRule (.*)/$ /$1 [R=301, L]
+RewriteRule (.*)/$ /$1 [R=301,L]
 
 # Rewrite /foo to /foo.html if it exists
 RewriteCond %{DOCUMENT_ROOT}/$1.json -f
