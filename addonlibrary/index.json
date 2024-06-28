@@ -111,7 +111,14 @@
 		"name":"WvW Toolbox",
 		"author":"HeavyMetalPirate.2695",
 		"description":"Tools to enhance your World vs. World experience.",
-		"download":"https://github.com/HeavyMetalPirate/GW2Nexus-WvWTools",
+		"download":"https://github.com/HeavyMetalPirate/GW2Nexus-WvWTools"
+	},
+	{
+		"id":-50603,
+		"name":"Steam Integration",
+		"author":"Zyian",
+		"description":"Initializes the Steam API to show you are playing GW2 on Steam to track time played.",
+		"download":"https://github.com/mythwright/nexus-steam-integration",
 		"new":true
 	}
 ]
