@@ -91,5 +91,12 @@
         "author": "e-scrape-artist",
         "description": "A build storage plugin for ArcDPS",
         "download": "https://buildpad.gw2archive.eu/versions/latest"
+    },
+    {
+        "id": 12708437,
+        "name": "Clears",
+        "author": "GW2Scratch",
+        "description": "A plugin for arcdps which adds a window that shows your current weekly clears.",
+        "download": "https://github.com/gw2scratch/arcdps-clears"
     }
 ]
