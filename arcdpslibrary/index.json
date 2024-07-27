@@ -40,7 +40,8 @@
         "author": "Krappa322",
         "description": "Provides other addons with additional information.",
         "download": "https://github.com/Krappa322/arcdps_unofficial_extras_releases",
-        "tos_compliance": "This addon reads game memory and makes runtime modifications."
+        "tos_compliance": "This addon reads game memory and makes runtime modifications.",
+        "addon_policy_tier": 1
     },
     {
         "id": 1680583342,
@@ -76,7 +77,8 @@
         "author": "Greaka",
         "description": "the ultimate loot tracking tool for Guild Wars 2",
         "download": "https://update.drf.rs/drf.dll",
-        "tos_compliance": "This addon reads game memory and makes runtime modifications."
+        "tos_compliance": "This addon reads game memory and makes runtime modifications.",
+        "addon_policy_tier": 1
     },
     {
         "id": 598736512,
