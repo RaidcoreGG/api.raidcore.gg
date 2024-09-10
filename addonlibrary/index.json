@@ -122,5 +122,14 @@
 		"author": "Zyian",
 		"description": "Initializes the Steam API to show you are playing GW2 on Steam to track time played.",
 		"download": "https://github.com/mythwright/nexus-steam-integration"
-	}
+	},
+	{
+        "id": 266758,
+        "name": "DRF",
+        "author": "greaka",
+        "description": "Gw2 Drop Research Facilities (https://drf.rs) is a live farming tracker to perform drop research without the need of manual counting or waiting for the API to pickup changes.",
+        "download": "https://update.drf.rs/drf.dll",
+		"addon_policy_tier": 1,
+		"new": true
+    }
 ]
