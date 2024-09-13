@@ -2,6 +2,6 @@
 	"Major": 2024,
 	"Minor": 9,
 	"Build": 13,
-	"Revision": 785,
+	"Revision": 949,
 	"Changelog": "Build 2024.9.13.785\n- Changed SwapChain acquisition for compatibility with certain ReShade Addons.\n- Changed Input Binds to not register when focusing Nexus UI elements such as input fields.\n- Added suppression of repeated log messages. The log window in-game will show a number before the message with how often it was repeated. Console and File log just won't log any additional messages.\n- Added \"Decoration Mode\" and \"Conjured Doorway\" game binds that came with \"Janthir Wilds\".\n- Changed Nexus self update to use GitHub instead of the Raidcore server. If the update fails the Raidcore server will be used as a fallback.\n- Changed generation of the button text for Input Binds.\n\nBuild 2024.9.3.1425\n- Fixed extended keys not behaving as expected.\n- Fixed Alt, Ctrl and Shift not releasing for Nexus InputBinds when standalone.\n\nBuild 2024.9.2.680\n- Improved WndProc.SendToGameOnly() behaviour.\n- Improved input sending for GameBinds.\n\nBuild 2024.9.1.1402\n- Fixed M and N being swapped in the GameBinds.\n- Always pass the cursor position through to the game even when hovering Nexus UI.\n- Fixed input sending for GameBinds."
 }
