@@ -129,6 +129,14 @@
 		"author": "greaka",
 		"description": "Gw2 Drop Research Facilities (https://drf.rs) is a live farming tracker to perform drop research without the need of manual counting or waiting for the API to pickup changes.",
 		"download": "https://update.drf.rs/drf.dll",
+		"addon_policy_tier": 1
+	},
+	{
+		"id": 67000002,
+		"name": "Radial Menus",
+		"author": "Raidcore",
+		"description": "Highly customisable radial menus.",
+		"download": "https://github.com/RaidcoreGG/GW2-RadialMenus",
 		"addon_policy_tier": 1,
 		"new": true
 	}
