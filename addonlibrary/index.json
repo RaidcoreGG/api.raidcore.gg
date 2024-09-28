@@ -139,5 +139,23 @@
 		"download": "https://github.com/RaidcoreGG/GW2-RadialMenus",
 		"addon_policy_tier": 1,
 		"new": true
+	},
+	{
+		"id": -308316617,
+		"name": "Castbar Clarity",
+		"author": "Ideka",
+		"description": "Add an outline to the castbar.",
+		"download": "https://github.com/ideka/castbar-clarity-public",
+		"addon_policy_tier": 1,
+		"new": true
+	},
+	{
+		"id": -562594189,
+		"name": "Peace and Quiet",
+		"author": "Ideka",
+		"description": "Blacklist those ambient dialogues and voice lines that you never want to hear again.",
+		"download": "https://github.com/ideka/peace-and-quiet-public",
+		"addon_policy_tier": 1,
+		"new": true
 	}
 ]
