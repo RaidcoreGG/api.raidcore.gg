@@ -157,5 +157,13 @@
 		"download": "https://github.com/ideka/peace-and-quiet-public",
 		"addon_policy_tier": 1,
 		"new": true
+	},
+	{
+		"id": -216687354,
+		"name": "Organizer",
+		"author": "Heavy Metal Pirate.2695",
+		"description": "Tools to help you stay organized throughout Tyria.",
+		"download": "https://github.com/HeavyMetalPirate/GW2Nexus-Organizer",
+		"new": true
 	}
 ]
