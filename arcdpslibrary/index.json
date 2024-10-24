@@ -79,13 +79,6 @@
         "download": "https://github.com/cheahjs/arcdps-chat-log"
     },
     {
-        "id": 2465727589,
-        "name": "BuildPad",
-        "author": "e-scrape-artist",
-        "description": "A build storage plugin for ArcDPS",
-        "download": "https://buildpad.gw2archive.eu/versions/latest"
-    },
-    {
         "id": 12708437,
         "name": "Clears",
         "author": "GW2Scratch",
