@@ -165,5 +165,12 @@
 		"description": "Tools to help you stay organized throughout Tyria.",
 		"download": "https://github.com/HeavyMetalPirate/GW2Nexus-Organizer",
 		"new": true
+	},
+	{
+		"id": -204767106,
+		"name": "KP Sync",
+		"author": "lorkanoo",
+		"description": "Synchronize Killproof automatically ",
+		"download": "https://github.com/lorkanoo/kp_sync"
 	}
 ]
