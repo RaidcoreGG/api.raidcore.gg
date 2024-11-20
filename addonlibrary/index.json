@@ -170,7 +170,14 @@
 		"id": -204767106,
 		"name": "KP Sync",
 		"author": "lorkanoo",
-		"description": "Synchronize Killproof automatically ",
+		"description": "Synchronize Killproof automatically",
 		"download": "https://github.com/lorkanoo/kp_sync"
+	},
+	{
+		"id": 2712,
+		"name": "Combat Timer",
+		"author": "Linka",
+		"description": "Displays the time spent in combat.",
+		"download": "https://github.com/Linkaaaaa/GW2CombatTimer"
 	}
 ]
