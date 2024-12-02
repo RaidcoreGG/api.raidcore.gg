@@ -179,5 +179,12 @@
 		"author": "Linka",
 		"description": "Displays the time spent in combat.",
 		"download": "https://github.com/Linkaaaaa/GW2CombatTimer"
+	},
+	{
+		"id": -204767107,
+		"name": "Reshade Preset Switcher",
+		"author": "lorkanoo",
+		"description": "Switch reshade presets automatically",
+		"download": "https://github.com/lorkanoo/reshade_preset_switcher"
 	}
 ]
