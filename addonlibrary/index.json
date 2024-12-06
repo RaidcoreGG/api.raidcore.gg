@@ -186,5 +186,13 @@
 		"author": "lorkanoo",
 		"description": "Switch reshade presets automatically",
 		"download": "https://github.com/lorkanoo/reshade_preset_switcher"
+	},
+	{
+		"id": -2125476477,
+		"name": "Boss Health",
+		"author": "Raidcore",
+		"description": "Shows the absolute health value of instanced bosses.",
+		"download": "https://github.com/RaidcoreGG/GW2-BossHealth-Releases",
+		"addon_policy_tier": 2
 	}
 ]
