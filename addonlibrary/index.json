@@ -194,5 +194,13 @@
 		"description": "Shows the absolute health value of instanced bosses.",
 		"download": "https://github.com/RaidcoreGG/GW2-BossHealth-Releases",
 		"addon_policy_tier": 2
+	},
+	{
+		"id": -63546313,
+		"name": "MursaatPanel",
+		"author": "Heavy Metal Pirate.2695",
+		"description": "Adds a panel that allows you to display various data around your gameplay.",
+		"download": "https://github.com/HeavyMetalPirate/GW2-MursaatPanel-Public",
+		"addon_policy_tier": 1
 	}
 ]
