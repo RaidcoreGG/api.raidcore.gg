@@ -202,5 +202,12 @@
 		"description": "Adds a panel that allows you to display various data around your gameplay.",
 		"download": "https://github.com/HeavyMetalPirate/GW2-MursaatPanel-Public",
 		"addon_policy_tier": 1
+	},
+	{
+		"id": -424242,
+		"name": "CursorAnchor",
+		"author": "Azrub",
+		"description": "Centers cursor when toggling action camera",
+		"download": "https://github.com/Azrub/CursorAnchor"
 	}
 ]
