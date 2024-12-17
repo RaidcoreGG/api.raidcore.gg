@@ -209,5 +209,12 @@
 		"author": "Azrub",
 		"description": "Centers cursor when toggling action camera",
 		"download": "https://github.com/Azrub/CursorAnchor"
+	},
+	{
+		"id": -996748,
+		"name": "WvW Fight Analysis",
+		"author": "Unreal",
+		"description": "WvW log analysis tool.",
+		"download": "https://github.com/jake-greygoose/WvW-Fight-Analysis-Addon"
 	}
 ]
