@@ -216,5 +216,12 @@
 		"author": "Unreal",
 		"description": "WvW log analysis tool.",
 		"download": "https://github.com/jake-greygoose/WvW-Fight-Analysis-Addon"
+	},
+	{
+		"id": -9475,
+		"name": "FlipMeister",
+		"author": "Joren.4310",
+		"description": "Track investments from the trading post. Evon Gnashblade approved!",
+		"download": "https://github.com/Jorenzo/GW2Nexus-FlipMeister"
 	}
 ]
