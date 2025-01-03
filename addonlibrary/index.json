@@ -223,5 +223,13 @@
 		"author": "Joren.4310",
 		"description": "Track investments from the trading post. Evon Gnashblade approved!",
 		"download": "https://github.com/Jorenzo/GW2Nexus-FlipMeister"
+	},
+	{
+		"id": 2003728944,
+		"name": "Squad Attendance Taker",
+		"author": "Vonsh.1427",
+		"description": "Get formatted list of squad members copied to clipboard on demand",
+		"download": "https://github.com/jsantorek/GW2-SquadAttendanceTaker",
+		"addon_policy_tier": 1
 	}
 ]
