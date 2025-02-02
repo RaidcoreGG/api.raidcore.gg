@@ -231,5 +231,13 @@
 		"description": "Get formatted list of squad members copied to clipboard on demand",
 		"download": "https://github.com/jsantorek/GW2-SquadAttendanceTaker",
 		"addon_policy_tier": 1
+	},
+	{
+		"id": -503504092,
+		"name": "Female Human Idle",
+		"author": "Ideka",
+		"description": "Restore the old deleted female human fidget animations. Act bored during intense story moments.",
+		"download": "https://github.com/ideka/fhd-fidget-public",
+		"addon_policy_tier": 1
 	}
 ]
