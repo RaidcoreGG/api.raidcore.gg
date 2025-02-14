@@ -239,5 +239,12 @@
 		"description": "Restore the old deleted female human fidget animations. Act bored during intense story moments.",
 		"download": "https://github.com/ideka/female-human-idle-public",
 		"addon_policy_tier": 1
+	},
+	{
+		"id": 2003728945,
+		"name": "True World Completion",
+		"author": "Vonsh.1427",
+		"description": "Seamless display within game map, includes all zones of all expansions and living worlds.",
+		"download": "https://github.com/jsantorek/GW2-TrueWorldCompletion"
 	}
 ]
