@@ -4,7 +4,8 @@
 		"name": "Compass",
 		"author": "Raidcore",
 		"description": "A compass addon, with a UI widget and an in world-compass.",
-		"download": "https://github.com/RaidcoreGG/GW2-Compass"
+		"download": "https://github.com/RaidcoreGG/GW2-Compass",
+		"filename": "compass.dll"
 	},
 	{
 		"id": -617263,
@@ -13,70 +14,80 @@
 		"description": "combatmetrics",
 		"download": "https://www.deltaconnected.com/arcdps/nexus_arcdps.dll",
 		"tos_compliance": "This addon reads game memory and makes runtime modifications.",
-		"addon_policy_tier": 2
+		"addon_policy_tier": 2,
+		"filename": "arcdps.dll"
 	},
 	{
 		"id": -1,
 		"name": "Bosses",
 		"author": "Sognus.1204",
 		"description": "Raidcore addon adding meta events and world bosses notifications to in-game map.",
-		"download": "https://github.com/Sognus/Gw2-Bosses"
+		"download": "https://github.com/Sognus/Gw2-Bosses",
+		"filename": "bosses.dll"
 	},
 	{
 		"id": -69420,
 		"name": "DVD",
 		"author": "belst",
 		"description": "Bouncy",
-		"download": "https://github.com/belst/nexus-dvd"
+		"download": "https://github.com/belst/nexus-dvd",
+		"filename": "dvd.dll"
 	},
 	{
 		"id": -69421,
-		"name": "Wingman Uploader",
+		"name": "Log Uploader",
 		"author": "belst",
 		"description": "Program to upload logs to both dps.report and gw2wingman.",
-		"download": "https://github.com/belst/nexus-wingman-uploader"
+		"download": "https://github.com/belst/nexus-wingman-uploader",
+		"filename": "loguploader.dll"
 	},
 	{
 		"id": 159851333,
 		"name": "MouseLookHandler",
 		"author": "Raidcore",
 		"description": "Addon to help automatically enable Action Camera and some other tweaks.",
-		"download": "https://github.com/RaidcoreGG/MouseLookHandler"
+		"download": "https://github.com/RaidcoreGG/MouseLookHandler",
+		"filename": "mouselookhandler.dll"
 	},
 	{
 		"id": -50602,
 		"name": "Addon Config Backup Tool",
 		"author": "Zyian",
 		"description": "A small tool to help keep your addons backed up in case of nuking your GW2 install folder",
-		"download": "https://github.com/mythwright/nexus-config-backup"
+		"download": "https://github.com/mythwright/nexus-config-backup",
+		"filename": "configbackup.dll"
 	},
 	{
 		"id": -584326,
 		"name": "Commander's Toolkit",
 		"author": "Raidcore",
 		"description": "Allows you to track boon & role coverage in a squad and other features.",
-		"download": "https://github.com/RaidcoreGG/GW2-CommandersToolkit"
+		"download": "https://github.com/RaidcoreGG/GW2-CommandersToolkit",
+		"filename": "commanderstoolkit.dll"
 	},
 	{
 		"id": 907018609,
 		"name": "/gg",
 		"author": "Raidcore",
 		"description": "Let's you GG with a button press.",
-		"download": "https://github.com/RaidcoreGG/GW2-SlashGG"
+		"download": "https://github.com/RaidcoreGG/GW2-SlashGG",
+		"filename": "slashgg.dll"
 	},
 	{
 		"id": 31,
 		"name": "Range Indicators",
 		"author": "Raidcore",
 		"description": "Shows your hitbox and allows to display custom ranges.",
-		"download": "https://github.com/RaidcoreGG/GW2-RangeIndicators"
+		"download": "https://github.com/RaidcoreGG/GW2-RangeIndicators",
+		"filename": "rangeindicators.dll"
 	},
 	{
 		"id": -918234798,
 		"name": "Keyboard Overlay",
 		"author": "Seres67",
 		"description": "Adds a simple keyboard overlay to the UI.",
-		"download": "https://github.com/Seres67/nexus_keyboard_overlay"
+		"download": "https://github.com/Seres67/nexus_keyboard_overlay",
+		"filename": "keyboardoverlay.dll"
 	},
 	{
 		"id": 67000001,
@@ -84,6 +95,7 @@
 		"author": "Raidcore",
 		"description": "Lets you load into maps faster.",
 		"download": "https://github.com/RaidcoreGG/GW2-FastLoadingScreen-Releases",
+		"filename": "fastloadingscreen.dll",
 		"tos_compliance": "This addon reads game memory and makes runtime modifications.",
 		"addon_policy_tier": 1
 	},
@@ -93,6 +105,7 @@
 		"author": "Jordan",
 		"description": "Provides additional controls and macros not available via the in-game Control Options menu.",
 		"download": "https://github.com/jordanrye/nexus-control-options",
+		"filename": "extendedcontroloptions.dll",
 		"addon_policy_tier": 1
 	},
 	{
@@ -100,28 +113,32 @@
 		"name": "Regions of Tyria",
 		"author": "HeavyMetalPirate.2695",
 		"description": "Displays the current sector whenever you cross borders, much like your favorite (MMO)RPG does.",
-		"download": "https://github.com/HeavyMetalPirate/GW2Nexus-RegionsOfTyria"
+		"download": "https://github.com/HeavyMetalPirate/GW2Nexus-RegionsOfTyria",
+		"filename": "regionsoftyria.dll"
 	},
 	{
 		"id": -104905,
 		"name": "Log Proofs",
 		"author": "Subi",
 		"description": "Displays kill proofs based on logs uploaded to wingman.",
-		"download": "https://github.com/SubiqT/GW2LogProofs"
+		"download": "https://github.com/SubiqT/GW2LogProofs",
+		"filename": "logproofs.dll"
 	},
 	{
 		"id": -9865498,
 		"name": "WvW Toolbox",
 		"author": "HeavyMetalPirate.2695",
 		"description": "Tools to enhance your World vs. World experience.",
-		"download": "https://github.com/HeavyMetalPirate/GW2Nexus-WvWTools"
+		"download": "https://github.com/HeavyMetalPirate/GW2Nexus-WvWTools",
+		"filename": "wvwtoolbox.dll"
 	},
 	{
 		"id": -50603,
 		"name": "Steam Integration",
 		"author": "Zyian",
 		"description": "Initializes the Steam API to show you are playing GW2 on Steam to track time played.",
-		"download": "https://github.com/mythwright/nexus-steam-integration"
+		"download": "https://github.com/mythwright/nexus-steam-integration",
+		"filename": "steamintegration.dll"
 	},
 	{
 		"id": 266758,
@@ -129,6 +146,7 @@
 		"author": "greaka",
 		"description": "Gw2 Drop Research Facilities (https://drf.rs) is a live farming tracker to perform drop research without the need of manual counting or waiting for the API to pickup changes.",
 		"download": "https://update.drf.rs/drf.dll",
+		"filename": "drf.dll",
 		"addon_policy_tier": 1
 	},
 	{
@@ -137,8 +155,8 @@
 		"author": "Raidcore",
 		"description": "Highly customisable radial menus.",
 		"download": "https://github.com/RaidcoreGG/GW2-RadialMenus",
-		"addon_policy_tier": 1,
-		"new": true
+		"filename": "radialmenus.dll",
+		"addon_policy_tier": 1
 	},
 	{
 		"id": -308316617,
@@ -146,8 +164,8 @@
 		"author": "Ideka",
 		"description": "Add an outline to the castbar.",
 		"download": "https://github.com/ideka/castbar-clarity-public",
-		"addon_policy_tier": 1,
-		"new": true
+		"filename": "castbarclarity.dll",
+		"addon_policy_tier": 1
 	},
 	{
 		"id": -562594189,
@@ -155,8 +173,8 @@
 		"author": "Ideka",
 		"description": "Blacklist those ambient dialogues and voice lines that you never want to hear again.",
 		"download": "https://github.com/ideka/peace-and-quiet-public",
-		"addon_policy_tier": 1,
-		"new": true
+		"filename": "peaceandquiet.dll",
+		"addon_policy_tier": 1
 	},
 	{
 		"id": -216687354,
@@ -164,28 +182,31 @@
 		"author": "Heavy Metal Pirate.2695",
 		"description": "Tools to help you stay organized throughout Tyria.",
 		"download": "https://github.com/HeavyMetalPirate/GW2Nexus-Organizer",
-		"new": true
+		"filename": "organizer.dll"
 	},
 	{
 		"id": -204767106,
 		"name": "KP Sync",
 		"author": "lorkanoo",
 		"description": "Synchronize Killproof automatically",
-		"download": "https://github.com/lorkanoo/kp_sync"
+		"download": "https://github.com/lorkanoo/kp_sync",
+		"filename": "kpsync.dll"
 	},
 	{
 		"id": 2712,
 		"name": "Combat Timer",
 		"author": "Linka",
 		"description": "Displays the time spent in combat.",
-		"download": "https://github.com/Linkaaaaa/GW2CombatTimer"
+		"download": "https://github.com/Linkaaaaa/GW2CombatTimer",
+		"filename": "combattimer.dll"
 	},
 	{
 		"id": -204767107,
 		"name": "Reshade Preset Switcher",
 		"author": "lorkanoo",
 		"description": "Switch reshade presets automatically",
-		"download": "https://github.com/lorkanoo/reshade_preset_switcher"
+		"download": "https://github.com/lorkanoo/reshade_preset_switcher",
+		"filename": "reshadepresetswitcher.dll"
 	},
 	{
 		"id": -2125476477,
@@ -193,6 +214,7 @@
 		"author": "Raidcore",
 		"description": "Shows the absolute health value of instanced bosses.",
 		"download": "https://github.com/RaidcoreGG/GW2-BossHealth-Releases",
+		"filename": "bosshealth.dll",
 		"addon_policy_tier": 2
 	},
 	{
@@ -201,6 +223,7 @@
 		"author": "Heavy Metal Pirate.2695",
 		"description": "Adds a panel that allows you to display various data around your gameplay.",
 		"download": "https://github.com/HeavyMetalPirate/GW2-MursaatPanel-Public",
+		"filename": "mursaatpanel.dll",
 		"addon_policy_tier": 1
 	},
 	{
@@ -208,21 +231,24 @@
 		"name": "CursorAnchor",
 		"author": "Azrub",
 		"description": "Centers cursor when toggling action camera",
-		"download": "https://github.com/Azrub/CursorAnchor"
+		"download": "https://github.com/Azrub/CursorAnchor",
+		"filename": "cursoranchor.dll"
 	},
 	{
 		"id": -996748,
 		"name": "WvW Fight Analysis",
 		"author": "Unreal",
 		"description": "WvW log analysis tool.",
-		"download": "https://github.com/jake-greygoose/WvW-Fight-Analysis-Addon"
+		"download": "https://github.com/jake-greygoose/WvW-Fight-Analysis-Addon",
+		"filename": "wvwfightanalysis.dll"
 	},
 	{
 		"id": -9475,
 		"name": "FlipMeister",
 		"author": "Joren.4310",
 		"description": "Track investments from the trading post. Evon Gnashblade approved!",
-		"download": "https://github.com/Jorenzo/GW2Nexus-FlipMeister"
+		"download": "https://github.com/Jorenzo/GW2Nexus-FlipMeister",
+		"filename": "flipmeister.dll"
 	},
 	{
 		"id": 2003728944,
@@ -230,6 +256,7 @@
 		"author": "Vonsh.1427",
 		"description": "Get formatted list of squad members copied to clipboard on demand",
 		"download": "https://github.com/jsantorek/GW2-SquadAttendanceTaker",
+		"filename": "squadattendancetaker.dll",
 		"addon_policy_tier": 1
 	},
 	{
@@ -238,6 +265,7 @@
 		"author": "Ideka",
 		"description": "Restore the old deleted female human fidget animations. Act bored during intense story moments.",
 		"download": "https://github.com/ideka/female-human-idle-public",
+		"filename": "femalehumanidle.dll",
 		"addon_policy_tier": 1
 	},
 	{
@@ -245,6 +273,7 @@
 		"name": "True World Completion",
 		"author": "Vonsh.1427",
 		"description": "Seamless display within game map, includes all zones of all expansions and living worlds.",
-		"download": "https://github.com/jsantorek/GW2-TrueWorldCompletion"
+		"download": "https://github.com/jsantorek/GW2-TrueWorldCompletion",
+		"filename": "trueworldcompletion.dll"
 	}
 ]
