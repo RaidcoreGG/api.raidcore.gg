@@ -275,5 +275,12 @@
 		"description": "Seamless display within game map, includes all zones of all expansions and living worlds.",
 		"download": "https://github.com/jsantorek/GW2-TrueWorldCompletion",
 		"filename": "trueworldcompletion.dll"
+	},
+	{
+		"id": 38,
+		"name": "Custom Cursors",
+		"author": "Jordan",
+		"description": "Customize in-game cursors.",
+		"download": "https://github.com/jordanrye/nexus-custom-cursors"
 	}
 ]
