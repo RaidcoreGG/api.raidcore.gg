@@ -45,7 +45,7 @@
         "author": "Krappa322",
         "description": "Provides other addons with additional information.",
         "download": "https://github.com/Krappa322/arcdps_unofficial_extras_releases",
-        "tos_compliance": "This addon reads game memory and makes runtime modifications.",,
+        "tos_compliance": "This addon reads game memory and makes runtime modifications.",
         "filename": "unofficialextras.dll",
         "addon_policy_tier": 1
     },
