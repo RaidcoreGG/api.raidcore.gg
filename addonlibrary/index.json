@@ -283,5 +283,14 @@
 		"description": "Customize in-game cursors.",
 		"download": "https://github.com/jordanrye/nexus-custom-cursors",
 		"filename": "customcursors.dll"
+	},
+	{
+		"id": 3425369342,
+		"name": "Settings Indicator",
+		"author": "Raidcore",
+		"description": "Configurable settings indicators.",
+		"download": "https://github.com/RaidcoreGG/GW2-SettingsIndicator-Releases",
+		"filename": "settingsindicator.dll",
+		"addon_policy_tier": 1
 	}
 ]
