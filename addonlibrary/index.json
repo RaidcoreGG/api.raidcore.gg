@@ -91,11 +91,11 @@
 	},
 	{
 		"id": 67000001,
-		"name": "Fast Loading Screen",
+		"name": "Fast Load",
 		"author": "Raidcore",
 		"description": "Lets you load into maps faster.",
-		"download": "https://github.com/RaidcoreGG/GW2-FastLoadingScreen-Releases",
-		"filename": "fastloadingscreen.dll",
+		"download": "https://github.com/RaidcoreGG/GW2-FastLoad-Releases",
+		"filename": "fastload.dll",
 		"tos_compliance": "This addon reads game memory and makes runtime modifications.",
 		"addon_policy_tier": 1
 	},
