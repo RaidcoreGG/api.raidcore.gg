@@ -46,7 +46,7 @@
 		"name": "MouseLookHandler",
 		"author": "Raidcore",
 		"description": "Addon to help automatically enable Action Camera and some other tweaks.",
-		"download": "https://github.com/RaidcoreGG/MouseLookHandler",
+		"download": "https://github.com/RaidcoreGG/GW2-MouseLookHandler",
 		"filename": "mouselookhandler.dll"
 	},
 	{
