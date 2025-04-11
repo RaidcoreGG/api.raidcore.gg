@@ -292,5 +292,13 @@
 		"download": "https://github.com/RaidcoreGG/GW2-SettingsIndicator-Releases",
 		"filename": "settingsindicator.dll",
 		"addon_policy_tier": 1
+	},
+	{
+		"id": 59330,
+		"name": "Simple Speedometer",
+		"author": "Toxxa",
+		"description": "A lightly customizeable Speedometer and movement-triggered Timer system.",
+		"download": "https://github.com/wipemop/simple_speedometer",
+		"filename": "speedometer.dll"
 	}
 ]
