@@ -19,7 +19,7 @@
 	},
 	{
 		"id": -1,
-		"name": "Bosses",
+		"name": "World Bosses",
 		"author": "Sognus.1204",
 		"description": "Raidcore addon adding meta events and world bosses notifications to in-game map.",
 		"download": "https://github.com/Sognus/Gw2-Bosses",
