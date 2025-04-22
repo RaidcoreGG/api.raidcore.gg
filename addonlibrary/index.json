@@ -300,5 +300,13 @@
 		"description": "A lightly customizeable Speedometer and movement-triggered Timer system.",
 		"download": "https://github.com/wipemop/simple_speedometer",
 		"filename": "speedometer.dll"
+	},
+	{
+		"id": 620863532,
+		"name": "RealTime API",
+		"author": "Raidcore",
+		"description": "Provides real time data for other addons.",
+		"download": "https://github.com/RaidcoreGG/GW2-RealTime-API-Releases",
+		"filename": "rtapi.dll"
 	}
 ]
