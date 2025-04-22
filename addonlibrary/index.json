@@ -307,6 +307,8 @@
 		"author": "Raidcore",
 		"description": "Provides real time data for other addons.",
 		"download": "https://github.com/RaidcoreGG/GW2-RealTime-API-Releases",
-		"filename": "rtapi.dll"
+		"filename": "rtapi.dll",
+		"tos_compliance": "This addon reads game memory and makes runtime modifications.",
+		"addon_policy_tier": 1
 	}
 ]
