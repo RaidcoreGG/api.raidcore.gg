@@ -2,6 +2,6 @@
 	"Major": 2025,
 	"Minor": 4,
 	"Build": 23,
-	"Revision": 1005,
-	"Changelog": "Build 2025.4.23.1005\n- Reworked cursor clipping logic to better handle edge cases.\n- Added option to enable cursor clipping. (Default on.)"
+	"Revision": 1335,
+	"Changelog": "Build 2025.4.23.1335\n- Fixed a crash related to the French translation.\n- Internal improvements to Events and DataLink.\n- DataLinks by addons are now shared outside of the Guild Wars 2 process like MumbleLink already is.\n\nBuild 2025.4.23.1005\n- Reworked cursor clipping logic to better handle edge cases.\n- Added option to enable cursor clipping. (Default on.)"
 }
