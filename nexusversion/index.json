@@ -1,7 +1,7 @@
 {
 	"Major": 2025,
 	"Minor": 4,
-	"Build": 24,
-	"Revision": 1205,
-	"Changelog": "Build 2025.4.24.1205\n- Added missing Loadout 9 GameBinds.\n- Internal improvements to GameBinds.\n- Merged Jump/SwimUp/FlyUp and SwimDown/FlyDown GameBinds to reflect the game.\n- Further improvements to hidden cursor locking. Thanks to invaluable help from brittyazel.\n\nBuild 2025.4.23.1335\n- Fixed a crash related to the French translation.\n- Internal improvements to Events and DataLink.\n- DataLinks by addons are now shared outside of the Guild Wars 2 process like MumbleLink already is.\n\nBuild 2025.4.23.1005\n- Reworked cursor clipping logic to better handle edge cases.\n- Added option to enable cursor clipping. (Default on.)"
+	"Build": 25,
+	"Revision": 830,
+	"Changelog": "Build 2025.4.25.830\n- Improved arc settings import.\n- Fixed a crash related to logging empty strings.\n- Implemented DPI Scaling. (Default on.)\n- Removed Global Scale setting.\n- Fixed a regression in GameBinds.\n- Fixed font size multiplying with the global scale.\n\nBuild 2025.4.24.1205\n- Added missing Loadout 9 GameBinds.\n- Internal improvements to GameBinds.\n- Merged Jump/SwimUp/FlyUp and SwimDown/FlyDown GameBinds to reflect the game.\n- Further improvements to hidden cursor locking. Thanks to invaluable help from brittyazel.\n\nBuild 2025.4.23.1335\n- Fixed a crash related to the French translation.\n- Internal improvements to Events and DataLink.\n- DataLinks by addons are now shared outside of the Guild Wars 2 process like MumbleLink already is.\n\nBuild 2025.4.23.1005\n- Reworked cursor clipping logic to better handle edge cases.\n- Added option to enable cursor clipping. (Default on.)"
 }
