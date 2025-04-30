@@ -24,14 +24,6 @@
         "filename": "killproofme.dll"
     },
     {
-        "id": 2031515920,
-        "name": "Scrolling Combat Text",
-        "author": "Artenuvielle",
-        "description": "A scrolling combat text addon for GW2 using ArcDPS API.",
-        "download": "https://github.com/Artenuvielle/GW2-SCT",
-        "filename": "sct.dll"
-    },
-    {
         "id": 2627419289,
         "name": "Healing Stats",
         "author": "Krappa322",
