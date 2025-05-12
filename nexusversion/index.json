@@ -2,6 +2,6 @@
 	"Major": 2025,
 	"Minor": 5,
 	"Build": 12,
-	"Revision": 1230,
-	"Changelog": "Build 2025.5.12.1230\nAdded additional log window filter options.\nFixed text wrapping in log window.\nAdded the channel name to the log window.\nInternal improvements to RawInput.\nInternal improvements to Multiboxing.\nMigrated GameBinds.json to GameBinds.xml. This file is compatible with the game's own configuration files.  Thanks @jsantorek.\nAdded secondary binds for GameBinds.\nAdded import button for GameBinds. Importing from Documents/Guild Wars 2/InputBinds, same as the game.\nAdded default binds for GameBinds.\nManually setting GameBinds will now also save, regardless of whether runtime binds are active."
+	"Revision": 1320,
+	"Changelog": "Build 2025.5.12.1320\n- Fixed a bug when DPI scaling was active and fonts were reselected.\n\nBuild 2025.5.12.1230\nAdded additional log window filter options.\nFixed text wrapping in log window.\nAdded the channel name to the log window.\nInternal improvements to RawInput.\nInternal improvements to Multiboxing.\nMigrated GameBinds.json to GameBinds.xml. This file is compatible with the game's own configuration files.  Thanks @jsantorek.\nAdded secondary binds for GameBinds.\nAdded import button for GameBinds. Importing from Documents/Guild Wars 2/InputBinds, same as the game.\nAdded default binds for GameBinds.\nManually setting GameBinds will now also save, regardless of whether runtime binds are active."
 }
