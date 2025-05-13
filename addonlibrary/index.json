@@ -320,5 +320,15 @@
 		"filename": "vfxdenoiser.dll",
 		"tos_compliance": "This addon reads game memory and makes runtime modifications.",
 		"addon_policy_tier": 1
+	},
+	{
+		"id": 2003728946,
+		"name": "Transparent Heart Progress",
+		"author": "Vonsh.1427",
+		"description": "Detailed display of renown heart progression",
+		"download": "https://github.com/jsantorek/GW2-TransparentHeartProgress",
+		"filename": "thp.dll",
+		"tos_compliance": "This addon reads game memory and makes runtime modifications.",
+		"addon_policy_tier": 1
 	}
 ]
