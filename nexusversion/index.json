@@ -2,6 +2,6 @@
 	"Major": 2025,
 	"Minor": 5,
 	"Build": 23,
-	"Revision": 420,
-	"Changelog": "Build 2025.5.23.420:\n- Reimplemented all modal dialogs.\n- Internal improvements to InputBinds.\n- Internal changes to InputBind capturing.\n- Added per-bind option to pass inputs through to the game. For example, to simultaneously hide Nexus and in-game UI.\n- Added load/unload button within an addons \"Configuration\" view.\n- Implemented new InputBind handler for API Revision 7."
+	"Revision": 600,
+	"Changelog": "Build 2025.5.23.600:\n- Fixed an issue with binds not passing through.\n- Changed InputBinds to sort alphabetically. Nexus and Inactive binds are pinned to the top.\n- Added confirmation dialog for uninstalling addons.\n\nBuild 2025.5.23.420:\n- Reimplemented all modal dialogs.\n- Internal improvements to InputBinds.\n- Internal changes to InputBind capturing.\n- Added per-bind option to pass inputs through to the game. For example, to simultaneously hide Nexus and in-game UI.\n- Added load/unload button within an addons \"Configuration\" view.\n- Implemented new InputBind handler for API Revision 7."
 }
