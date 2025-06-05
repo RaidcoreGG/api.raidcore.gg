@@ -339,5 +339,12 @@
 		"download": "https://github.com/lorkanoo/item_detail_popups",
 		"tos_compliance": "This addon uses macros to open and close chatbox, copies and reads item name from clipboard.",
 		"addon_policy_tier": 1
+	},
+	{
+		"id": -1932638909,
+		"name": "TaimiHUD",
+		"author": "kittywitch",
+		"description": "Timers, commander's markers and eventually much more for RaidcoreGG Nexus.",
+		"download": "https://github.com/kittywitch/TaimiHUD"
 	}
 ]
