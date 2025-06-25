@@ -343,8 +343,9 @@
 	{
 		"id": -1932638909,
 		"name": "TaimiHUD",
-		"author": "kittywitch",
-		"description": "Timers, commander's markers and eventually much more for RaidcoreGG Nexus.",
-		"download": "https://github.com/kittywitch/TaimiHUD"
+		"author": "The TaimiHUD Team",
+		"description": "Timers, Commander's Markers and Pathing.",
+		"download": "https://github.com/TaimiHUD/TaimiHUD",
+		"filename": "taimihud.dll"
 	}
 ]
