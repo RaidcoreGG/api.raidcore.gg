@@ -94,7 +94,7 @@
         "name": "BuildPad",
         "author": "e-scrape-artist",
         "description": "A build storage plugin for ArcDPS.",
-        "download": "https://github.com/xvwyh/BuildPad/raw/refs/heads/master/arcdps_buildpad.dll"
+        "download": "https://raw.githubusercontent.com/xvwyh/BuildPad/refs/heads/master/arcdps_buildpad.dll"
     },
     {
         "id": 1644823246,
