@@ -88,5 +88,19 @@
         "description": "A plugin for arcdps which adds a window that shows your current weekly clears.",
         "download": "https://github.com/gw2scratch/arcdps-clears",
         "filename": "clears.dll"
+    },
+    {
+        "id": 2465727589,
+        "name": "BuildPad",
+        "author": "e-scrape-artist",
+        "description": "A build storage plugin for ArcDPS.",
+        "download": "https://buildpad.gw2archive.eu/versions/latest"
+    },
+    {
+        "id": 1644823246,
+        "name": "SquadRoles",
+        "author": "e-scrape-artist",
+        "description": "ArcDPS plugin for easier squad management.",
+        "download": "https://github.com/xvwyh/SquadRoles"
     }
 ]
