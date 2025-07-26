@@ -94,13 +94,14 @@
         "name": "BuildPad",
         "author": "e-scrape-artist",
         "description": "A build storage plugin for ArcDPS.",
-        "download": "https://buildpad.gw2archive.eu/versions/latest"
+        "download": "https://github.com/xvwyh/BuildPad/blob/master/arcdps_buildpad.dll"
     },
     {
         "id": 1644823246,
         "name": "SquadRoles",
         "author": "e-scrape-artist",
         "description": "ArcDPS plugin for easier squad management.",
-        "download": "https://github.com/xvwyh/SquadRoles"
+        "download": "https://github.com/xvwyh/SquadRoles",
+        "addon_policy_tier": 1
     }
 ]
