@@ -94,7 +94,8 @@
         "name": "BuildPad",
         "author": "e-scrape-artist",
         "description": "A build storage plugin for ArcDPS.",
-        "download": "https://raw.githubusercontent.com/xvwyh/BuildPad/refs/heads/master/arcdps_buildpad.dll"
+        "download": "https://raw.githubusercontent.com/xvwyh/BuildPad/refs/heads/master/arcdps_buildpad.dll",
+        "filename": "buildpad.dll"
     },
     {
         "id": 1644823246,
@@ -102,6 +103,16 @@
         "author": "e-scrape-artist",
         "description": "ArcDPS plugin for easier squad management.",
         "download": "https://github.com/xvwyh/SquadRoles",
-        "addon_policy_tier": 1
+        "addon_policy_tier": 1,
+        "filename": "squadroles.dll"
+    },
+    {
+        "id": -424248,
+        "name": "GolemHelper",
+        "author": "Azrub",
+        "description": "Automates the process of setting optimal boon and golem configurations in the training area.",
+        "download": "https://github.com/Azrub/GolemHelper",
+        "addon_policy_tier": 1,
+        "filename": "golemhelper.dll"
     }
 ]
