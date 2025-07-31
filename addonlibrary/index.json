@@ -347,5 +347,14 @@
 		"description": "Timers, Commander's Markers and Pathing.",
 		"download": "https://github.com/TaimiHUD/TaimiHUD",
 		"filename": "taimihud.dll"
+	},
+	{
+		"id": -424248,
+		"name": "GolemHelper",
+		"author": "Azrub",
+		"description": "Automates the process of setting optimal boon and golem configurations in the training area.",
+		"download": "https://github.com/Azrub/GolemHelper",
+		"addon_policy_tier": 1,
+		"filename": "golemhelper.dll"
 	}
 ]
