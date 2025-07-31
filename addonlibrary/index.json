@@ -356,5 +356,13 @@
 		"download": "https://github.com/Azrub/GolemHelper",
 		"addon_policy_tier": 1,
 		"filename": "golemhelper.dll"
+	},
+	{
+		"id": -69423,
+		"name": "Emotes",
+		"author": "belst",
+		"description": "Displays 7tv Emotes mentioned in squadchat. Requires arcdps + unofficial extras",
+		"download": "https://github.com/belst/nexus-emotes",
+		"filename": "nexus_emotes.dll"
 	}
 ]
