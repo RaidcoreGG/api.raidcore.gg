@@ -364,5 +364,14 @@
 		"description": "Displays 7tv Emotes mentioned in squadchat. Requires arcdps + unofficial extras",
 		"download": "https://github.com/belst/nexus-emotes",
 		"filename": "nexus_emotes.dll"
+	},
+	{
+		"id": 1735852641,
+		"name": "Events: Alerts",
+		"author": "Vonsh.1427",
+		"description": "Provides game's alerts as events for other addons.",
+		"download": "https://github.com/jsantorek/GW2-Alerts",
+		"addon_policy_tier": 1,
+		"filename": "alerts.dll"
 	}
 ]
