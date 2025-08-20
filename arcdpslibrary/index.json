@@ -1,109 +1,132 @@
 [
-    {
-        "id": 2164277538,
-        "name": "Mechanics Log",
-        "author": "knoxfighter",
-        "description": "Shows successful and failed mechanics.",
-        "download": "https://github.com/knoxfighter/GW2-ArcDPS-Mechanics-Log",
-        "filename": "mechanicslog.dll"
-    },
-    {
-        "id": 1677734504,
-        "name": "Boon Table",
-        "author": "knoxfighter",
-        "description": "Adds a table with boon uptime.",
-        "download": "https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table",
-        "filename": "boontable.dll"
-    },
-    {
-        "id": 1806637368,
-        "name": "Killproof.me",
-        "author": "knoxfighter",
-        "description": "A Plugin for arcdps, that is loading killproof.me info and displaying it ingame.",
-        "download": "https://github.com/knoxfighter/arcdps-killproof.me-plugin",
-        "filename": "killproofme.dll"
-    },
-    {
-        "id": 2627419289,
-        "name": "Healing Stats",
-        "author": "Krappa322",
-        "description": "An addon for ArcDPS that shows personal healing stats.",
-        "download": "https://github.com/Krappa322/arcdps_healing_stats",
-        "filename": "healingstats.dll"
-    },
-    {
-        "id": 3013035711,
-        "name": "Unofficial Extras",
-        "author": "Krappa322",
-        "description": "Provides other addons with additional information.",
-        "download": "https://github.com/Krappa322/arcdps_unofficial_extras_releases",
-        "tos_compliance": "This addon reads game memory and makes runtime modifications.",
-        "filename": "unofficialextras.dll",
-        "addon_policy_tier": 1
-    },
-    {
-        "id": 1680583342,
-        "name": "Food Reminder",
-        "author": "Zerthox",
-        "description": "ArcDPS plugin for Guild Wars 2 allowing tracking of buff food & utility items.",
-        "download": "https://github.com/Zerthox/arcdps-food-reminder",
-        "filename": "foodreminder.dll"
-    },
-    {
-        "id": 120734459,
-        "name": "Player List",
-        "author": "Calcoph",
-        "description": "Save other players' account names and add comments to them.",
-        "download": "https://github.com/Calcoph/gw2-player-list",
-        "filename": "playerlist.dll"
-    },
-    {
-        "id": 2227255059,
-        "name": "Buddy",
-        "author": "Zerthox",
-        "description": "ArcDPS plugin for Guild Wars 2 assisting with combat gameplay.",
-        "download": "https://github.com/Zerthox/arcdps-buddy",
-        "filename": "buddy.dll"
-    },
-    {
-        "id": 3165360497,
-        "name": "Squad Ready",
-        "author": "cheahjs",
-        "description": "arcdps plugin for playing audio notifications when a ready check is started and completed.",
-        "download": "https://github.com/cheahjs/arcdps-squad-ready-plugin",
-        "filename": "squadready.dll"
-    },
-    {
-        "id": 598736512,
-        "name": "Chat Log",
-        "author": "cheahjs",
-        "description": "arcdps plugin for doing various things with squad messages",
-        "download": "https://github.com/cheahjs/arcdps-chat-log",
-        "filename": "chatlog.dll"
-    },
-    {
-        "id": 12708437,
-        "name": "Clears",
-        "author": "GW2Scratch",
-        "description": "A plugin for arcdps which adds a window that shows your current weekly clears.",
-        "download": "https://github.com/gw2scratch/arcdps-clears",
-        "filename": "clears.dll"
-    },
-    {
-        "id": 2465727589,
-        "name": "BuildPad",
-        "author": "e-scrape-artist",
-        "description": "A build storage plugin for ArcDPS.",
-        "download": "https://raw.githubusercontent.com/xvwyh/BuildPad/refs/heads/master/arcdps_buildpad.dll",
-        "filename": "buildpad.dll"
-    },
-    {
-        "id": 1644823246,
-        "name": "SquadRoles",
-        "author": "e-scrape-artist",
-        "description": "ArcDPS plugin for easier squad management.",
-        "download": "https://github.com/xvwyh/SquadRoles",
-        "addon_policy_tier": 1,
-        "filename": "squadroles.dll"
-    }
+	{
+		"id": 2164277538,
+		"name": "Mechanics Log",
+		"author": "knoxfighter",
+		"description": "Shows successful and failed mechanics.",
+		"download": "https://github.com/knoxfighter/GW2-ArcDPS-Mechanics-Log",
+		"filename": "mechanicslog.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 1677734504,
+		"name": "Boon Table",
+		"author": "knoxfighter",
+		"description": "Adds a table with boon uptime.",
+		"download": "https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table",
+		"filename": "boontable.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 1806637368,
+		"name": "Killproof.me",
+		"author": "knoxfighter",
+		"description": "A Plugin for arcdps, that is loading killproof.me info and displaying it ingame.",
+		"download": "https://github.com/knoxfighter/arcdps-killproof.me-plugin",
+		"filename": "killproofme.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 2627419289,
+		"name": "Healing Stats",
+		"author": "Krappa322",
+		"description": "An addon for ArcDPS that shows personal healing stats.",
+		"download": "https://github.com/Krappa322/arcdps_healing_stats",
+		"filename": "healingstats.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 3013035711,
+		"name": "Unofficial Extras",
+		"author": "Krappa322",
+		"description": "Provides other addons with additional information.",
+		"download": "https://github.com/Krappa322/arcdps_unofficial_extras_releases",
+		"filename": "unofficialextras.dll",
+		"addon_policy_tier": 1,
+		"tags": []
+	},
+	{
+		"id": 1680583342,
+		"name": "Food Reminder",
+		"author": "Zerthox",
+		"description": "ArcDPS plugin for Guild Wars 2 allowing tracking of buff food & utility items.",
+		"download": "https://github.com/Zerthox/arcdps-food-reminder",
+		"filename": "foodreminder.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 120734459,
+		"name": "Player List",
+		"author": "Calcoph",
+		"description": "Save other players' account names and add comments to them.",
+		"download": "https://github.com/Calcoph/gw2-player-list",
+		"filename": "playerlist.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 2227255059,
+		"name": "Buddy",
+		"author": "Zerthox",
+		"description": "ArcDPS plugin for Guild Wars 2 assisting with combat gameplay.",
+		"download": "https://github.com/Zerthox/arcdps-buddy",
+		"filename": "buddy.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 3165360497,
+		"name": "Squad Ready",
+		"author": "cheahjs",
+		"description": "arcdps plugin for playing audio notifications when a ready check is started and completed.",
+		"download": "https://github.com/cheahjs/arcdps-squad-ready-plugin",
+		"filename": "squadready.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 598736512,
+		"name": "Chat Log",
+		"author": "cheahjs",
+		"description": "arcdps plugin for doing various things with squad messages",
+		"download": "https://github.com/cheahjs/arcdps-chat-log",
+		"filename": "chatlog.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 12708437,
+		"name": "Clears",
+		"author": "GW2Scratch",
+		"description": "A plugin for arcdps which adds a window that shows your current weekly clears.",
+		"download": "https://github.com/gw2scratch/arcdps-clears",
+		"filename": "clears.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 2465727589,
+		"name": "BuildPad",
+		"author": "e-scrape-artist",
+		"description": "A build storage plugin for ArcDPS.",
+		"download": "https://raw.githubusercontent.com/xvwyh/BuildPad/refs/heads/master/arcdps_buildpad.dll",
+		"filename": "buildpad.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 1644823246,
+		"name": "SquadRoles",
+		"author": "e-scrape-artist",
+		"description": "ArcDPS plugin for easier squad management.",
+		"download": "https://github.com/xvwyh/SquadRoles",
+		"filename": "squadroles.dll",
+		"addon_policy_tier": 1,
+		"tags": []
+	}
 ]
