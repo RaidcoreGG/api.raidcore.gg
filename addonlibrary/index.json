@@ -22,6 +22,19 @@
 		"tags": []
 	},
 	{
+		"id": 919805723,
+		"name": "Anti Camera Smooth",
+		"author": "Eidolon",
+		"description": "Disables the mouse camera interpolation (smoothing) when on foot.",
+		"download": "https://github.com/HybridEidolon/gw2anticamerasmooth-releases",
+		"filename": "anticamerasmooth.dll",
+		"addon_policy_tier": 1,
+		"tags": [
+			"Accessibility",
+			"QoL"
+		]
+	},
+	{
 		"id": 4294350033,
 		"name": "ArcDPS",
 		"author": "deltaconnected",
