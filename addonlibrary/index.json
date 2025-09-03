@@ -22,6 +22,16 @@
 		"tags": []
 	},
 	{
+		"id": 3382683172,
+		"name": "App Launcher",
+		"author": "Seres67",
+		"description": "An addon to start and stop other programs on game start.",
+		"download": "https://github.com/Seres67/nexus_app_launcher",
+		"filename": "applauncher.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
 		"id": 919805723,
 		"name": "Anti Camera Smooth",
 		"author": "Eidolon",
