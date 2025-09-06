@@ -57,6 +57,16 @@
 		]
 	},
 	{
+		"id": 4294839121,
+		"name": "Assisted Deployment and Departure",
+		"author": "hvaren",
+		"description": "An addon to launch programs when the game starts and kill processes when it closes.",
+		"download": "https://github.com/qjv/assisted_deployment_and_departure",
+		"filename": "assisted_deploy_and_departure.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
 		"id": 2169490819,
 		"name": "Boss Health",
 		"author": "Tyrian Developer Collective",
