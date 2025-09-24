@@ -299,6 +299,16 @@
 		"tags": []
 	},
 	{
+		"id": 2712847316,
+		"name": "Macro Manager",
+		"author": "oshico",
+		"description": "A macro keybind manager for executing sequences of game actions with timing control.",
+		"download": "https://github.com/oshico/GW2-MACRO",
+		"filename": "macromanager.dll",
+		"addon_policy_tier": 1,
+		"tags": []
+	},
+	{
 		"id": 159851333,
 		"name": "MouseLookHandler",
 		"author": "Raidcore",
