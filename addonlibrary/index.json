@@ -193,6 +193,16 @@
 		]
 	},
 	{
+		"id": 3131683244,
+		"name": "Event Timers",
+		"author": "hvaren",
+		"description": "Event timers port to Nexus, based on the wiki page of same name.",
+		"download": "https://github.com/qjv/event-timers",
+		"filename": "eventtimers.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
 		"id": 37,
 		"name": "Extended Control Options",
 		"author": "Jordan",
