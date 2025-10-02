@@ -193,6 +193,18 @@
 		]
 	},
 	{
+		"id": 1735852643,
+		"name": "Events: Chat",
+		"author": "Vonsh.1427",
+		"description": "Provides game's chat messages as events for other addons.",
+		"download": "https://github.com/jsantorek/GW2-Chat",
+		"filename": "chat.dll",
+		"addon_policy_tier": 1,
+		"tags": [
+			"API"
+		]
+	},
+	{
 		"id": 3131683244,
 		"name": "Event Timers",
 		"author": "hvaren",
