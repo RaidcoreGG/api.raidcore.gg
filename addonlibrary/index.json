@@ -375,6 +375,16 @@
 		]
 	},
 	{
+		"id": 1296914465,
+		"name": "Personal Combat Metrics",
+		"author": "Tyrian Developer Collective",
+		"description": "Personal DPS meter and combat metrics tool.",
+		"download": "https://github.com/TyrianDeveloperCollective/GW2-DamageMeter",
+		"filename": "damagemeter.dll",
+		"addon_policy_tier": 2,
+		"tags": []
+	},
+	{
 		"id": 67000002,
 		"name": "Radial Menus",
 		"author": "Raidcore",
