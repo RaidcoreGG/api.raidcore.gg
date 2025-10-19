@@ -496,13 +496,23 @@
 		"id": 2003728946,
 		"name": "Transparent Heart Progress",
 		"author": "Vonsh.1427",
-		"description": "Detailed display of renown heart progression",
+		"description": "Detailed display of renown heart progression.",
 		"download": "https://github.com/jsantorek/GW2-TransparentHeartProgress",
-		"filename": "thp.dll",
+		"filename": "transparenthearts.dll",
 		"addon_policy_tier": 1,
 		"tags": [
 			"UI"
 		]
+	},
+	{
+		"id": 2003728947,
+		"name": "Trendy Achievement Suggestions",
+		"author": "Vonsh.1427",
+		"description": "Substitutes game's achievement recommendations with the topmost unlocked by playerbase.",
+		"download": "https://github.com/jsantorek/GW2-TrendyAchievementSuggestions",
+		"filename": "trendyachievements.dll",
+		"addon_policy_tier": 1,
+		"tags": []
 	},
 	{
 		"id": 2003728945,
