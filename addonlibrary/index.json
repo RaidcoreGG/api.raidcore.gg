@@ -525,6 +525,18 @@
 		"tags": []
 	},
 	{
+		"id": 1817724315,
+		"name": "UnhideNPCs",
+		"author": "server-imp",
+		"description": "Stops the game from hiding NPCs/Monsters etc.",
+		"download": "https://github.com/server-imp/UnhideNPCs",
+		"filename": "UnhideNPCs.dll",
+		"addon_policy_tier": 1,
+		"tags": [
+			"QoL"
+		]
+	},
+	{
 		"id": 4243875188,
 		"name": "VfxDenoiser",
 		"author": "Haskha",
