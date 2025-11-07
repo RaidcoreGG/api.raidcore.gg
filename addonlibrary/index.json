@@ -343,16 +343,6 @@
 		]
 	},
 	{
-		"id": 4231420983,
-		"name": "MursaatPanel",
-		"author": "Heavy Metal Pirate.2695",
-		"description": "Adds a panel that allows you to display various data around your gameplay.",
-		"download": "https://github.com/HeavyMetalPirate/GW2-MursaatPanel-Public",
-		"filename": "mursaatpanel.dll",
-		"addon_policy_tier": 1,
-		"tags": []
-	},
-	{
 		"id": 4078279942,
 		"name": "Organizer",
 		"author": "Heavy Metal Pirate.2695",
@@ -544,18 +534,6 @@
 		"download": "https://github.com/HasKha/VfxDenoiserReleases",
 		"filename": "vfxdenoiser.dll",
 		"addon_policy_tier": 1,
-		"tags": [
-			"QoL"
-		]
-	},
-	{
-		"id": 4081301965,
-		"name": "Where Are My Tools?",
-		"author": "Heavy Metal Pirate.2695",
-		"description": "Addon to help you find your unbreakable gathering tools in the game.",
-		"download": "https://github.com/HeavyMetalPirate/GW2Nexus-WhereAreMyTools-Public",
-		"addon_policy_tier": 1,
-		"filename": "WhereAreMyTools.dll",
 		"tags": [
 			"QoL"
 		]
