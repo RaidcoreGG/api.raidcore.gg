@@ -1,5 +1,17 @@
 [
 	{
+		"id": 1872416537,
+		"name": "/Commands!",
+		"author": "Tyrian Developer Collective",
+		"description": "Adds InputBinds for commands as well as an API for other addons..",
+		"download": "https://github.com/TyrianDeveloperCollective/GW2-SlashCommands",
+		"filename": "commands.dll",
+		"addon_policy_tier": 1,
+		"tags": [
+			"QoL"
+		]
+	},
+	{
 		"id": 907018609,
 		"name": "/gg",
 		"author": "Raidcore",
