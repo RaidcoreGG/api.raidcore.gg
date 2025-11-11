@@ -79,18 +79,6 @@
 		"tags": []
 	},
 	{
-		"id": 2169490819,
-		"name": "Boss Health",
-		"author": "Tyrian Developer Collective",
-		"description": "Shows the absolute health value of instanced bosses.",
-		"download": "https://github.com/TyrianDeveloperCollective/GW2-BossHealth-Releases",
-		"filename": "bosshealth.dll",
-		"addon_policy_tier": 2,
-		"tags": [
-			"Combat"
-		]
-	},
-	{
 		"id": 3986650679,
 		"name": "Castbar Clarity",
 		"author": "Ideka",
