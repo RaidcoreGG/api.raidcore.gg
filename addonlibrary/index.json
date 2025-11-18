@@ -271,6 +271,19 @@
 		]
 	},
 	{
+		"id": 4292523730,
+		"name": "GW2RotaHelper",
+		"author": "Franneck.1274",
+		"description": "Displays the player's skill rotation and helps improving it by providing visual feedback.",
+		"download": "https://github.com/franneck94/GW2_RotaHelper",
+		"filename": "GW2RotaHelper.dll",
+		"addon_policy_tier": 0,
+		"tags": [
+			"Combat",
+			"UI"
+		]
+	},
+	{
 		"id": 4090200188,
 		"name": "Item Detail Popups",
 		"author": "lorkanoo",
