@@ -92,6 +92,19 @@
 		]
 	},
 	{
+		"id": 286037477,
+		"name": "Combat Cursor",
+		"author": "Eredin.4187",
+		"description": "Sets the cursor contrast to maximum during combat.",
+		"download": "https://github.com/mriot/combat-cursor-releases",
+		"filename": "combatcursor.dll",
+		"addon_policy_tier": 1,
+		"tags": [
+			"Combat",
+			"QoL"
+		]
+	},
+	{
 		"id": 2712,
 		"name": "Combat Timer",
 		"author": "Linka",
