@@ -401,6 +401,16 @@
 		"tags": []
 	},
 	{
+		"id": 12245589,
+		"name": "PrepAlert",
+		"author": "Eredin.4187",
+		"description": "Location-aware damage buff reminders for Dungeons and Fractal CMs.",
+		"download": "https://github.com/mriot/prep-alert",
+		"filename": "prepalert.dll",
+		"addon_policy_tier": 1,
+		"tags": []
+	},
+	{
 		"id": 67000002,
 		"name": "Radial Menus",
 		"author": "Raidcore",
