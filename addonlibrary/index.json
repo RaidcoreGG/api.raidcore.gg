@@ -575,6 +575,18 @@
 		]
 	},
 	{
+		"id": 4081301965,
+		"name": "Where Are My Tools?",
+		"author": "Heavy Metal Pirate.2695",
+		"description": "Addon to help you find your unbreakable gathering tools in the game.",
+		"download": "https://github.com/TyrianDeveloperCollective/GW2-WhereAreMyTools-Public",
+		"addon_policy_tier": 1,
+		"filename": "WhereAreMyTools.dll",
+		"tags": [
+			"QoL"
+		]
+	},
+	{
 		"id": 4294967295,
 		"name": "World Bosses",
 		"author": "Sognus.1204",
