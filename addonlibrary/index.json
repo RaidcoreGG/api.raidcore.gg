@@ -357,6 +357,18 @@
 		"tags": []
 	},
 	{
+		"id": 257383734,
+		"name": "Mouse Highlight",
+		"author": "Eredin.4187",
+		"description": "TacO addon port that renders a full-screen crosshair aligned to the mouse cursor.",
+		"download": "https://github.com/mriot/mouse-highlight",
+		"filename": "mousehighlight.dll",
+		"addon_policy_tier": 0,
+		"tags": [
+			"Accessibility"
+		]
+	},
+	{
 		"id": 159851333,
 		"name": "MouseLookHandler",
 		"author": "Raidcore",
