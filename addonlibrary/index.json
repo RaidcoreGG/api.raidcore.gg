@@ -150,6 +150,14 @@
 		"tags": []
 	},
 	{
+		"id": 2574860269,
+		"name": "Custom Combat Text",
+		"author": "Ideka",
+		"description": "Customize the look of combat events on your screen. Requires ArcDPS.",
+		"download": "https://github.com/ideka/custom-combat-text-public",
+		"addon_policy_tier": 1
+	},
+	{
 		"id": 38,
 		"name": "Custom Cursors",
 		"author": "Jordan",
