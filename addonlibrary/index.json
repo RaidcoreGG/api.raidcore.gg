@@ -92,6 +92,17 @@
 		]
 	},
 	{
+		"id": 3673660555,
+		"name": "Colorful Chat",
+		"author": "Eredin.4187",
+		"description": "Customize chat colors",
+		"download": "https://github.com/mriot/colorful-chat-releases",
+		"addon_policy_tier": 1,
+		"tags": [
+			"Accessibility"
+		]
+	},
+	{
 		"id": 286037477,
 		"name": "Combat Cursor",
 		"author": "Eredin.4187",
@@ -155,7 +166,8 @@
 		"author": "Ideka",
 		"description": "Customize the look of combat events on your screen. Requires ArcDPS.",
 		"download": "https://github.com/ideka/custom-combat-text-public",
-		"addon_policy_tier": 1
+		"addon_policy_tier": 1,
+		"tags": []
 	},
 	{
 		"id": 38,
