@@ -4,7 +4,7 @@
 		"name": "BHUDrender",
 		"author": "greaka",
 		"description": "ArcDPS bridge for BlishHUD.",
-		"download": "hhttps://github.com/blish-hud/arcdps-bhud",
+		"download": "https://github.com/blish-hud/arcdps-bhud",
 		"filename": "bhudrender.dll",
 		"addon_policy_tier": 0,
 		"tags": []
