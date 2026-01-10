@@ -1,5 +1,15 @@
 [
 	{
+		"id": 133124,
+		"name": "BHUDrender",
+		"author": "greaka",
+		"description": "ArcDPS bridge for BlishHUD.",
+		"download": "hhttps://github.com/blish-hud/arcdps-bhud",
+		"filename": "bhudrender.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
 		"id": 1677734504,
 		"name": "Boon Table",
 		"author": "knoxfighter",
