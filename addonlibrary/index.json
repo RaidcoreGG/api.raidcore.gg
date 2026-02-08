@@ -138,6 +138,16 @@
 		"tags": []
 	},
 	{
+		"id": 4233551263,
+		"name": "Community LFG",
+		"author": "Raidcore",
+		"description": "Custom LFG.",
+		"download": "https://github.com/RaidcoreGG/GW2-LFG-Releases",
+		"filename": "lfg.dll",
+		"addon_policy_tier": 1,
+		"tags": []
+	},
+	{
 		"id": 17,
 		"name": "Compass",
 		"author": "Raidcore",
