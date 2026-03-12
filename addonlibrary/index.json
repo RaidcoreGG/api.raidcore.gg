@@ -161,6 +161,16 @@
 		]
 	},
 	{
+		"id": 2598544089,
+		"name": "CraftyLegend",
+		"author": "PieOrCake.7635",
+		"description": "Legendary crafting assistant for Guild Wars 2.",
+		"download": "https://github.com/PieOrCake/crafty-legend",
+		"filename": "craftylegend.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
 		"id": 4294543054,
 		"name": "CursorAnchor",
 		"author": "Azrub",
@@ -276,6 +286,18 @@
 		"description": "Lets you load into maps faster.",
 		"download": "https://github.com/TyrianDeveloperCollective/GW2-FastLoad-Releases",
 		"filename": "fastload.dll",
+		"addon_policy_tier": 1,
+		"tags": [
+			"QoL"
+		]
+	},
+	{
+		"id": 3115098256,
+		"name": "Fast Swap",
+		"author": "hvaren",
+		"description": "Have a control to fast swap your characters without going to character screen!",
+		"download": "https://github.com/qjv/fast-swap-releases",
+		"filename": "fastswap.dll",
 		"addon_policy_tier": 1,
 		"tags": [
 			"QoL"
