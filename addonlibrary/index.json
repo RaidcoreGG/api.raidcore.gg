@@ -526,9 +526,19 @@
 		"id": 4090200189,
 		"name": "Reshade Preset Switcher",
 		"author": "lorkanoo",
-		"description": "Switch reshade presets automatically",
+		"description": "Switch reshade presets automatically.",
 		"download": "https://github.com/lorkanoo/reshade_preset_switcher",
 		"filename": "reshadepresetswitcher.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 536555760,
+		"name": "Serenade",
+		"author": "PieOrCake.7635",
+		"description": "GW2 in-game music player - automates instrument playback.",
+		"download": "https://github.com/PieOrCake/serenade",
+		"filename": "serenade.dll",
 		"addon_policy_tier": 0,
 		"tags": []
 	},
