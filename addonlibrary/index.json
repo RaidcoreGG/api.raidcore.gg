@@ -349,6 +349,16 @@
 		]
 	},
 	{
+		"id": 3808715375,
+		"name": "GW2 Story Times",
+		"author": "MattyGroch",
+		"description": "Guild Wars 2 story mission timing overlay for Raidcore Nexus.",
+		"download": "https://github.com/MattyGroch/gw2-storytimes-nexus",
+		"filename": "gw2storytimes.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
 		"id": 4090200188,
 		"name": "Item Detail Popups",
 		"author": "lorkanoo",
