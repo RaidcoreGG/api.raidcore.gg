@@ -79,6 +79,18 @@
 		"tags": []
 	},
 	{
+		"id": 3673660555,
+		"name": "Better Chat",
+		"author": "Eredin.4187",
+		"description": "Upgrade your chat with custom colors, bigger text, longer history, a bigger window, notifications, and more.",
+		"download": "https://github.com/mriot/better-chat-releases",
+		"filename": "better_chat.dll",
+		"addon_policy_tier": 1,
+		"tags": [
+			"Accessibility"
+		]
+	},
+	{
 		"id": 3986650679,
 		"name": "Castbar Clarity",
 		"author": "Ideka",
@@ -92,23 +104,12 @@
 		]
 	},
 	{
-		"id": 3673660555,
-		"name": "Colorful Chat",
-		"author": "Eredin.4187",
-		"description": "Customize chat colors",
-		"download": "https://github.com/mriot/colorful-chat-releases",
-		"addon_policy_tier": 1,
-		"tags": [
-			"Accessibility"
-		]
-	},
-	{
 		"id": 286037477,
 		"name": "Combat Cursor",
 		"author": "Eredin.4187",
-		"description": "Sets the cursor contrast to maximum during combat.",
+		"description": "See your cursor when it counts! Higher contrast in combat, temporarily resets over game and addon UI.",
 		"download": "https://github.com/mriot/combat-cursor-releases",
-		"filename": "combatcursor.dll",
+		"filename": "combat_cursor.dll",
 		"addon_policy_tier": 1,
 		"tags": [
 			"Combat",
