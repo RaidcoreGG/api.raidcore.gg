@@ -360,6 +360,16 @@
 		"tags": []
 	},
 	{
+		"id": 1598412393,
+		"name": "Hoard & Seek",
+		"author": "PieOrCake.7635",
+		"description": "Find where your items are hiding across your GW2 account.",
+		"download": "https://github.com/PieOrCake/hoard_and_seek",
+		"filename": "hoardandseek.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
 		"id": 4090200188,
 		"name": "Item Detail Popups",
 		"author": "lorkanoo",
