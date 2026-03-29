@@ -454,6 +454,16 @@
 		]
 	},
 	{
+		"id": 4268934795,
+		"name": "NexusGameWiki",
+		"author": "mestyq.3204",
+		"description": "Guild Wars 2 in-game wiki viewer.",
+		"download": "https://github.com/mestyq/NexusGameWiki",
+		"filename": "wiki.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
 		"id": 4078279942,
 		"name": "Organizer",
 		"author": "Heavy Metal Pirate.2695",
