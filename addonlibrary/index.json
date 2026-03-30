@@ -430,6 +430,16 @@
 		"tags": []
 	},
 	{
+		"id": 3003693641,
+		"name": "Mission Finder",
+		"author": "PieOrCake.7635",
+		"description": "Browse and search guild mission locations. Click a mission to copy its waypoint info or post directly to chat.",
+		"download": "https://github.com/PieOrCake/mission_finder",
+		"filename": "missionfinder.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
 		"id": 257383734,
 		"name": "Mouse Highlight",
 		"author": "Eredin.4187",
@@ -525,6 +535,16 @@
 		"description": "Shows your hitbox and allows to display custom ranges.",
 		"download": "https://github.com/RaidcoreGG/GW2-RangeIndicators",
 		"filename": "rangeindicators.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 1522094262,
+		"name": "Realm Report",
+		"author": "PieOrCake.7635",
+		"description": "WvW objective tracker - live overview of camps, towers, keeps across all maps.",
+		"download": "https://github.com/PieOrCake/realm_report",
+		"filename": "realmreport.dll",
 		"addon_policy_tier": 0,
 		"tags": []
 	},
