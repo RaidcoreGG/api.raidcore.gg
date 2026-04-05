@@ -141,9 +141,9 @@
 	{
 		"id": 4233551263,
 		"name": "Community LFG",
-		"author": "Raidcore",
+		"author": "Tyrian Developer Collective",
 		"description": "Custom LFG.",
-		"download": "https://github.com/RaidcoreGG/GW2-LFG-Releases",
+		"download": "https://github.com/TyrianDeveloperCollective/GW2-CommunityLFG-Releases",
 		"filename": "lfg.dll",
 		"addon_policy_tier": 1,
 		"tags": []
