@@ -101,6 +101,16 @@
 		]
 	},
 	{
+		"id": 4274716786,
+		"name": "BuildCoach",
+		"author": "Todd0042",
+		"description": "Tool for comparing traits and equipment to saved builds or setting up new characters with proper builds.",
+		"download": "https://github.com/Todd0042/BuildCoach",
+		"filename": "buildcoach.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
 		"id": 3986650679,
 		"name": "Castbar Clarity",
 		"author": "Ideka",
@@ -291,6 +301,16 @@
 		]
 	},
 	{
+		"id": 20240001,
+		"name": "FarmingTracker",
+		"author": "xliviax",
+		"description": "Tracks farmed items and currencies in real-time via DRF (drf.rs)",
+		"download": "https://github.com/xLiviax-Dev/FarmingTracker",
+		"filename": "farmingtracker.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
 		"id": 67000001,
 		"name": "Fast Load",
 		"author": "Tyrian Developer Collective",
@@ -342,6 +362,18 @@
 		"download": "https://github.com/Azrub/GolemHelper",
 		"filename": "golemhelper.dll",
 		"addon_policy_tier": 1,
+		"tags": [
+			"QoL"
+		]
+	},
+	{
+		"id": 4270531633,
+		"name": "GolemSpawner",
+		"author": "Franneck.1274",
+		"description": "Respawn golem without fat fingering the wrong button.",
+		"download": "https://github.com/franneck94/GW2_GolemRespawn",
+		"filename": "golemspawner.dll",
+		"addon_policy_tier": 0,
 		"tags": [
 			"QoL"
 		]
@@ -437,6 +469,26 @@
 		"download": "https://github.com/oshico/GW2-MACRO",
 		"filename": "macromanager.dll",
 		"addon_policy_tier": 1,
+		"tags": []
+	},
+	{
+		"id": 4294947473,
+		"name": "Map Completion tracker",
+		"author": "Tood0042",
+		"description": "Manual checklist to track map completion in-game.",
+		"download": "https://github.com/Todd0042/gw2-mapcompletion",
+		"filename": "mapcompletiontracker.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 4294947500,
+		"name": "Meta Train Commander",
+		"author": "Tood0042",
+		"description": "Tool for organizing meta trains and world boss trains.",
+		"download": "https://github.com/Todd0042/gw2-meta-train",
+		"filename": "metatraincommander.dll",
+		"addon_policy_tier": 0,
 		"tags": []
 	},
 	{
@@ -539,6 +591,16 @@
 		]
 	},
 	{
+		"id": 1380404528,
+		"name": "Raid Guide",
+		"author": "Tood0042",
+		"description": "In-game Raid and Raid Encouter information.",
+		"download": "https://github.com/Todd0042/gw2-raid-guide",
+		"filename": "raidguide.dll",
+		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
 		"id": 31,
 		"name": "Range Indicators",
 		"author": "Raidcore",
@@ -621,6 +683,16 @@
 		"download": "https://github.com/wipemop/simple_speedometer",
 		"filename": "speedometer.dll",
 		"addon_policy_tier": 0,
+		"tags": []
+	},
+	{
+		"id": 836002717,
+		"name": "Skip Cutscene Pls",
+		"author": "mriot",
+		"description": "Skip cutscenes via keybind and some quality-of-life improvements.",
+		"download": "https://github.com/mriot/skip-cutscene-pls-releases",
+		"filename": "skip_cutscene_pls.dll",
+		"addon_policy_tier": 1,
 		"tags": []
 	},
 	{
